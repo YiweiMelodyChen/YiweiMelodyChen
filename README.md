@@ -1,4 +1,8 @@
 ### Hi there 👋
+#- 🔭 I’m currently a student in Xi'an Jiao Tong University.
+#- 🌱 I’m currently learning algorithms in CV, Knowledge Graph.
+#- 👯 I’m looking for research assistant opportunity 
+#- 📫 How to reach me: chenyiwei0008@gmail.com
 
 <!--
 **YiweiMelodyChen/YiweiMelodyChen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
