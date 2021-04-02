@@ -6,6 +6,8 @@
 
 - 👯 I’m looking for research assistant opportunity 
 
+- 👩 My Chinese name can be written like 陈一苇.
+
 - 📫 How to reach me: chenyiwei0008@gmail.com
 
 <!--
