@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a student in Xi'an Jiao Tong University.
 
-- 🌱 I’m currently learning algorithms in CV, Knowledge Graph.
+- 🌱 I’m currently learning algorithms in Visual Reasoning and Multi-Modalities.
 
 - 👯 I’m looking for research assistant opportunity 
 
