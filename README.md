@@ -8,7 +8,7 @@
 
 - 📫 How to reach me: chenyiwei0008@gmail.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiweiMelodyChen&count_private=true&show_icons=true&theme=gruvbox&hide=PRs)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YiweiMelodyChen&count_private=true&show_icons=true&theme=gruvbox&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YiweiMelodyChen)](https://github.com/anuraghazra/github-readme-stats)
 
