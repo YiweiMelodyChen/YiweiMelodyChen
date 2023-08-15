@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a student in Xi'an Jiao Tong University.
+- 🔭 I’m currently a master student in Xi'an Jiao Tong University.
 
-- 🌱 I have interests in Visual Reasoning and Robotics.
+- 🌱 I have interests in Robotics Vision and Casual Inference.
 
 - 👯 I’m looking for research assistant opportunity. 
 
