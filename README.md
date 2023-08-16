@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a master student in Xi'an Jiao Tong University.
 
-- 🌱 I have interests in Robotics Vision and Casual Inference.
+- 🌱 I have interests in Robotics Vision and Neural Symbolic.
 
 - 👯 I’m looking for research assistant opportunity. 
 
