@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently a master student in Xi'an Jiao Tong University.
 
-- 🌱 I have interests in Robotics Vision and Embodied AI.
+- 🌱 I have interests in Explainable AI and Embodied AI.
 
 - 👯 I’m looking for research assistant opportunity. 
 
