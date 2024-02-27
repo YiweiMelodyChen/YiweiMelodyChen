@@ -1,10 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a master student in Xi'an Jiao Tong University.
+- 🔭 I’m currently a cs master student in Xi'an Jiao Tong University.
 
-- 🌱 I have interests in Explainable AI and Embodied AI.
-
-- 👯 I’m looking for research assistant opportunity. 
+- 🌱 I have interests in Explainable AI and trustworthy ML.
 
 - 📫 How to reach me: chenyiwei0008@gmail.com.
 
