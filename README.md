@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently a cs master student in Xi'an Jiao Tong University.
+- 🔭 I’m currently a first year PhD student at Michigan State University.
 
 - 🌱 I have interests in Explainable AI and trustworthy ML.
 
